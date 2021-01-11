@@ -1,0 +1,27 @@
+/* header/ title*/
+
+
+.header{
+    padding: 60px;
+    text-align: center;
+    background: green;
+    color: blue;
+    font-size: 30px;
+    /*font-family:"Lucida Console" , "Courier New", monospace;*/
+    font-family: 'Indie Flower', cursive;
+
+}
+
+.full-width{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 500px;
+    display: flex;
+
+}
+
+.buttons {
+    text-align: center;
+
+}
